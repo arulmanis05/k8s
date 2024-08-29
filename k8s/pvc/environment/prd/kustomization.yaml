@@ -1,0 +1,7 @@
+kind: Kustomization
+
+resources: 
+  - ../../source
+
+namespace: production 
+namePrefix: production- 
